@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.15)  15 SEP 2019 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.15)  15 SEP 2019 19:28
 entering extended mode
 **./mastersthesis.tex
 (mastersthesis.tex
@@ -548,20 +548,20 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ) (hyperrefPatch.tex) (mastersthesis.aux)
 \openout1 = `mastersthesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 ("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/context/ba
 se/mkii\supp-pdf.mkii"
@@ -594,7 +594,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring ON on input line 26.
+Package hyperref Info: Link coloring ON on input line 25.
 
 ("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hype
 rref\nameref.sty"
@@ -606,15 +606,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  ABD: EveryShipout initializing macros
 (Titelseite.tex
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
-                   )
-l.17 ...igsaw, opacityback=0.5, width=620, center]
+                   \relax 
+l.12 ... width=620, opacityframe=0, coltext=white]
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -623,46 +623,57 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.17 ...igsaw, opacityback=0.5, width=620, center]
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.32 \begin{tcolorbox}[width=200, halign=left]
-                                              
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (38.42218pt too wide) in paragraph at lines 36--36
-[]\OT1/cmr/m/n/12 benjamin.schuepbach@students.unibe.ch  
+Overfull \hbox (230.0pt too wide) in paragraph at lines 23--23
+[][] 
  []
 
-<images/map_ICARUS_thresh70.png, id=6, 1445.4pt x 722.7pt>
-File: images/map_ICARUS_thresh70.png Graphic file (type png)
-<use images/map_ICARUS_thresh70.png>
-Package pdftex.def Info: images/map_ICARUS_thresh70.png  used on input line 58.
 
+! Package pgfkeys Error: Choice '20' unknown in choice key '/tcb/halign'. I am 
+going to ignore this key.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ... opacityframe=0, coltext=white, halign=20]
+                                                  
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.28 ... opacityframe=0, coltext=white, halign=20]
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 46--46
+[]\OT1/cmr/m/n/14.4 Institute of Ge-og-ra-phy, Uni-ver-sity of
+ []
+
+<images/map_ICARUS_thresh70_4.png, id=6, 1445.4pt x 722.7pt>
+File: images/map_ICARUS_thresh70_4.png Graphic file (type png)
+<use images/map_ICARUS_thresh70_4.png>
+Package pdftex.def Info: images/map_ICARUS_thresh70_4.png  used on input line 5
+6.
 (pdftex.def)             Requested size: 2890.79297pt x 1445.39645pt.
 [1
 
 
 {C:/Users/Benjamin Schüpbach/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-} <./images/map_ICARUS_thresh70.png>]) (Abstract.tex) [2] (mastersthesis.toc
+} <./images/map_ICARUS_thresh70_4.png>]) (Abstract.tex) [2
+
+]
+(mastersthesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -673,23 +684,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write6
 \openout6 = `mastersthesis.toc'.
 
-[3] (Introduction.tex
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 45--52
-[] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 55--62
-[] 
- []
-
-[4]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 66--73
-[] 
- []
-
-) [5] (Methods.tex) [6] (Results.tex
-<images/map_ICARUS_thresh90.png, id=86, 1445.4pt x 722.7pt>
+ [3] (Introduction.tex [4]) [5] (Methods.tex) [6]
+(Results.tex
+<images/map_ICARUS_thresh90.png, id=85, 1445.4pt x 722.7pt>
 File: images/map_ICARUS_thresh90.png Graphic file (type png)
 <use images/map_ICARUS_thresh90.png>
 Package pdftex.def Info: images/map_ICARUS_thresh90.png  used on input line 4.
@@ -701,30 +698,29 @@ Overfull \hbox (43.62335pt too wide) in paragraph at lines 4--5
 
 ) [7 <./images/map_ICARUS_thresh90.png>] (Discussion.tex) [8]
 (ConclusionOutlook.tex) [9] (mastersthesis.bbl) [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
  (mastersthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 63.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 62.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 15739 strings out of 492895
- 303488 string characters out of 3117195
+ 15748 strings out of 492895
+ 303680 string characters out of 3117195
  380939 words of memory out of 3000000
- 19347 multiletter control sequences out of 15000+200000
+ 19356 multiletter control sequences out of 15000+200000
  8847 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,13n,73p,2600b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,13n,73p,2600b,518s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Benjamin Schüpbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Benjamin Schüpbach/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Benjamin Schü
-pbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pf
-b><C:/Users/Benjamin Schüpbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmti12.pfb>
-Output written on mastersthesis.pdf (10 pages, 789353 bytes).
+pbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.p
+fb>
+Output written on mastersthesis.pdf (10 pages, 723118 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
