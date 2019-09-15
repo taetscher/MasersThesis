@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+
+	
+	
+	
+
+	%Packages Used%
+	\usepackage[utf8]{inputenc}
+	\usepackage[round]{natbib}
+	\usepackage{graphicx}
+	\usepackage[USenglish]{babel}
+	\usepackage[colorlinks,citecolor=blue,urlcolor=blue,bookmarks=false,hypertexnames=true,linkcolor=black]{hyperref} 
+	\usepackage{etoolbox}
+	
+	%Patch it so hyperref only highlights the year in citations
+	\input{hyperrefPatch}
+
+
+
+
+
+\begin{document}
+	
+	\input{Titelseite}
+
+	\newpage
+	
+	\tableofcontents
+	
+	\newpage
+	
+	\input{Introduction}
+	
+	\newpage
+	
+	\input{Methods}
+	
+	\newpage
+	
+	\input{Results}
+	
+	\newpage
+
+	\input{Discussion}
+
+	\newpage
+	
+	\input{ConclusionOutlook}
+
+	\newpage
+	
+	\bibliography{ma_bib}
+	\bibliographystyle{plainnat}
+
+\end{document}
