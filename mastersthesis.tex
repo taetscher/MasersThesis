@@ -11,6 +11,10 @@
 	\usepackage[USenglish]{babel}
 	\usepackage[colorlinks,citecolor=blue,urlcolor=blue,bookmarks=false,hypertexnames=true,linkcolor=black]{hyperref} 
 	\usepackage{etoolbox}
+	\usepackage{watermark}
+	\usepackage{tcolorbox}
+
+
 	
 	%Patch it so hyperref only highlights the year in citations
 	\input{hyperrefPatch}
@@ -23,6 +27,10 @@
 	
 	\input{Titelseite}
 
+	\newpage
+	
+	\input{Abstract}
+	
 	\newpage
 	
 	\tableofcontents
