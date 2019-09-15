@@ -1,2 +1,2 @@
-# MasersThesis
+# MastersThesis
 My actual Masters Thesis
