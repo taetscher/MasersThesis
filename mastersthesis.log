@@ -1,15 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.15)  15 SEP 2019 19:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  16 SEP 2019 11:57
 entering extended mode
 **./mastersthesis.tex
 (mastersthesis.tex
 LaTeX2e <2018-12-01>
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base
-\article.cls"
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base
-\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -24,8 +20,7 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base
-\inputenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -37,43 +32,34 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count88
-)
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics\graphicx.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics-cfg\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ba
-bel\babel.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic\babel\babel.sty"
 Package: babel 2019/07/19 3.33 The Babel package
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ba
-bel\switch.def"
+("C:\Program Files\MiKTeX 2.9\tex/generic\babel\switch.def"
 File: switch.def 2019/07/19 3.33 Babel switching mechanism
 )
 *************************************
@@ -85,39 +71,32 @@ i\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babe
-l-english\USenglish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex\babel-english\USenglish.ldf"
 Language: USenglish 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babe
-l-english\english.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex\babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ba
-bel\babel.def"
+("C:\Program Files\MiKTeX 2.9\tex/generic\babel\babel.def"
 File: babel.def 2019/07/19 3.33 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen105
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ba
-bel\txtbabel.def")
+("C:\Program Files\MiKTeX 2.9\tex/generic\babel\txtbabel.def")
 \bbl@dirlevel=\count90
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )))
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hype
-rref\hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\hyperref\hyperref.sty"
 Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ob
-erdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ob
-erdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -153,32 +132,27 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/if
-xetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ober
-diek\auxhook.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ober
-diek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
 \Hy@linkcounter=\count91
 \Hy@pagecounter=\count92
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hype
-rref\pd1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex\hyperref\pd1enc.def"
 File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count93
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00mi
-ktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
@@ -217,15 +191,12 @@ LaTeX Info: Redefining \pageref on input line 6485.
 \c@Hfootnote=\count98
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hype
-rref\hpdftex.def"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex\hyperref\hpdftex.def"
 File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
 \Fld@listcount=\count99
 \c@bookmark@seq@number=\count100
 
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ober
-diek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -338,9 +309,7 @@ File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 ("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcol
 or\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grap
-hics-cfg\color.cfg"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -515,8 +484,7 @@ Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
 compatibility\pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
 ))
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tool
-s\verbatim.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks27
 \verbatim@line=\toks28
@@ -530,197 +498,4 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 spaces\trimspaces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks29
-)
-\tcb@titlebox=\box34
-\tcb@upperbox=\box35
-\tcb@lowerbox=\box36
-\tcb@phantombox=\box37
-\c@tcbbreakpart=\count114
-\c@tcblayer=\count115
-\tcolorbox@number=\count116
-\tcb@temp=\box38
-\tcb@temp=\box39
-\tcb@temp=\box40
-\tcb@temp=\box41
-\tcb@out=\write4
-\tcb@record@out=\write5
-) (hyperrefPatch.tex) (mastersthesis.aux)
-\openout1 = `mastersthesis.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/context/ba
-se/mkii\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen149
-\scratchbox=\box42
-\nofMPsegments=\count118
-\nofMParguments=\count119
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen150
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks31
-)
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ober
-diek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ober
-diek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-\AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring ON on input line 25.
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hype
-rref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\Benjamin Schüpbach\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ob
-erdiek\gettitlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count123
-)
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
- ABD: EveryShipout initializing macros
-(Titelseite.tex
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.12 ... width=620, opacityframe=0, coltext=white]
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (230.0pt too wide) in paragraph at lines 23--23
-[][] 
- []
-
-
-! Package pgfkeys Error: Choice '20' unknown in choice key '/tcb/halign'. I am 
-going to ignore this key.
-
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 ... opacityframe=0, coltext=white, halign=20]
-                                                  
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.28 ... opacityframe=0, coltext=white, halign=20]
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 46--46
-[]\OT1/cmr/m/n/14.4 Institute of Ge-og-ra-phy, Uni-ver-sity of
- []
-
-<images/map_ICARUS_thresh70_4.png, id=6, 1445.4pt x 722.7pt>
-File: images/map_ICARUS_thresh70_4.png Graphic file (type png)
-<use images/map_ICARUS_thresh70_4.png>
-Package pdftex.def Info: images/map_ICARUS_thresh70_4.png  used on input line 5
-6.
-(pdftex.def)             Requested size: 2890.79297pt x 1445.39645pt.
-[1
-
-
-{C:/Users/Benjamin Schüpbach/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-} <./images/map_ICARUS_thresh70_4.png>]) (Abstract.tex) [2
-
-]
-(mastersthesis.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
-\tf@toc=\write6
-\openout6 = `mastersthesis.toc'.
-
- [3] (Introduction.tex [4]) [5] (Methods.tex) [6]
-(Results.tex
-<images/map_ICARUS_thresh90.png, id=85, 1445.4pt x 722.7pt>
-File: images/map_ICARUS_thresh90.png Graphic file (type png)
-<use images/map_ICARUS_thresh90.png>
-Package pdftex.def Info: images/map_ICARUS_thresh90.png  used on input line 4.
-(pdftex.def)             Requested size: 433.62335pt x 216.81166pt.
-
-Overfull \hbox (43.62335pt too wide) in paragraph at lines 4--5
- [][] 
- []
-
-) [7 <./images/map_ICARUS_thresh90.png>] (Discussion.tex) [8]
-(ConclusionOutlook.tex) [9] (mastersthesis.bbl) [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
- (mastersthesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 62.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
- ) 
-Here is how much of TeX's memory you used:
- 15748 strings out of 492895
- 303680 string characters out of 3117195
- 380939 words of memory out of 3000000
- 19356 multiletter control sequences out of 15000+200000
- 8847 words of font info for 31 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 54i,13n,73p,2600b,518s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Benjamin Schüpbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Benjamin Schüpbach/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Benjamin Schü
-pbach/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.p
-fb>
-Output written on mastersthesis.pdf (10 pages, 723118 bytes).
-PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+\@envbod
