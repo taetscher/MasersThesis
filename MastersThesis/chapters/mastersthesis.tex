@@ -6,13 +6,30 @@
 
 	%Packages Used%
 	\usepackage[utf8]{inputenc}
-	\usepackage[round]{natbib}
+	\usepackage[round, authoryear]{natbib}
 	\usepackage{graphicx}
 	\usepackage[USenglish]{babel}
 	\usepackage[colorlinks,citecolor=blue,urlcolor=blue,bookmarks=false,hypertexnames=true,linkcolor=black]{hyperref} 
 	\usepackage{etoolbox}
 	\usepackage{watermark}
 	\usepackage{tcolorbox}
+	
+	%Packages for flowchart
+	\usepackage{amsmath}
+    \usepackage{tikz}
+    \usepackage{mathdots}
+    \usepackage{yhmath}
+    \usepackage{cancel}
+    \usepackage{color}
+    \usepackage{siunitx}
+    \usepackage{array}
+    \usepackage{multirow}
+    \usepackage{amssymb}
+    \usepackage{gensymb}
+    \usepackage{tabularx}
+    \usepackage{booktabs}
+    \usetikzlibrary{fadings}
+
 
 
 	
@@ -26,6 +43,10 @@
 	
 	\input{Titelseite}
 
+	\newpage
+	
+	\input{chapters/Firstpage.tex}
+	
 	\newpage
 	
 	\input{Abstract}
@@ -56,9 +77,8 @@
 
 	\newpage
 
-	\cite{voncarlowitz1732}
 	
-	\bibliographystyle{}
+	\bibliographystyle{plainnat}
 	\bibliography{ma_bib}
 	
 
