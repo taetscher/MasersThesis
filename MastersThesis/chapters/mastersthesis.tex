@@ -13,6 +13,9 @@
 	\usepackage{etoolbox}
 	\usepackage{watermark}
 	\usepackage{tcolorbox}
+	\usepackage[english]{babel}
+    \usepackage{graphicx}
+    \usepackage[table,xcdraw]{xcolor}
 	
 	%Packages for flowchart
 	\usepackage{amsmath}
@@ -28,6 +31,8 @@
     \usepackage{gensymb}
     \usepackage{tabularx}
     \usepackage{booktabs}
+    \usepackage{courier}
+    \usepackage{tgcursor}
     \usetikzlibrary{fadings}
 
 
@@ -40,12 +45,13 @@
 
 
 \begin{document}
+    \setcitestyle{authoryear}
 	
-	\input{Titelseite}
+	\input{chapters/NonTextElements/Titelseite.tex}
 
 	\newpage
 	
-	\input{chapters/Firstpage.tex}
+	\input{chapters/NonTextElements/Firstpage.tex}
 	
 	\newpage
 	\pagenumbering{roman}
@@ -79,8 +85,8 @@
 
 	\newpage
 
-	
-	\bibliographystyle{plainnat}
+	ADD \{ \} TO BIBLIOGRAPHY ENTRIES THAT AREN'T DISPLAYED CORRECTLY IN THE .BIB FILE
+	\bibliographystyle{apa}
 	\bibliography{ma_bib}
 	
 
