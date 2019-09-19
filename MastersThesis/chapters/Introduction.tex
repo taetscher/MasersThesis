@@ -31,7 +31,7 @@
 
 		    \subsubsection{17 Goals to Transform Our World}
 	            
-	            Because of these persistent challenges, the UN General Assembly adopted the new 2030 Agenda for Sustainable Developments on 25 September 2015 \citep{unitednations2018}. The new agenda consists of 17 goals and includes 169 subordinate targets, making it the most extensive global development framework to date (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019a}). Compared to the MDGs, the SDGs thus cover more dimensions of development more specifically (see table X). In March of 2018 as well as one year later in March of 2019, the list of indicators for the SDGs was expanded to 232 total indicators (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019}). All indicators are classified in tiers that determine their conceptual clarity and progress towards methodological standards for data collection:
+	            Because of these persistent challenges, the UN General Assembly adopted the new 2030 Agenda for Sustainable Developments on 25 September 2015 \citep{unitednations2018}. The new agenda consists of 17 goals and originally included 169 subordinate targets, making it the most extensive global development framework to date (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019a}). Compared to the MDGs, the SDGs thus cover more dimensions of development more specifically (see table X). In March of 2018 as well as one year later in March of 2019, the list of indicators for the SDGs was expanded to 232 total indicators (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019}). All indicators are classified in tiers that determine their conceptual clarity and progress towards methodological standards for data collection:
 	            
 	            \medskip
 	            
@@ -56,7 +56,7 @@
 
 	       \subsubsection{The Rural Access Index}
 	            
-	            The main focus of this thesis is on SDG 9, indicator 1.1: \textit{Proportion of the rural population who live within 2 km of an all-season road} (see chapters X, X and X). Until December 31 of 2018 indicator 9.1.1 was classified as a tier III indicator \citep{sdsn2015}. Today, it is classified as a tier II indicator (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019b}). The indicator was first introduced by Peter Roberts et al. \citeyear{roberts2006} as rural access index (RAI) in the context of the Results Measurement System (RMS) of the International Development Association. 
+	            The main focus of this thesis is on SDG 9, indicator 1.1: \textit{Proportion of the rural population who live within 2 km of an all-season road} (see chapters X, X and X). Until December 31 of 2018 indicator 9.1.1 was classified as a tier III indicator \citep{sdsn2015}. Today, it is classified as a tier II indicator (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019b}). The indicator was first introduced by Peter Roberts et al. \citeyear{roberts2006} as the rural access index (RAI) in the context of the Results Measurement System (RMS) of the International Development Association. 
 	            
 	            \medskip
 	            
@@ -71,15 +71,46 @@
 
 	            \medskip
                 
-                According to Roberts et al. (\citeyear{roberts2006}:4), RAI should be measured "by analysis of household surveys that include appropriate questions about access to transport. The aim is to integrate this with the measurement of household characteristics such as income and access to services such as education, health and clean water supply". Although this methodological approach has since been updated, RAI is still considered to be among the most important global development indicators of the transport in the Metadata-Repository of the SDGs (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019a}). Today's official methodological approach uses a combination of geospatial data (more specifically population distribution data, urban extent data, vectorized road data, measurements of road utility status) as opposed to data from household surveys (The World Bank, \citeyear{theworldbank2016}). RAI has a spatial resolution of 100x100 meters
+                According to Roberts et al. (\citeyear{roberts2006}:4), RAI should be measured "by analysis of household surveys that include appropriate questions about access to transport. The aim is to integrate this with the measurement of household characteristics such as income and access to services such as education, health and clean water supply". Although this methodological approach has since been updated, RAI is still considered to be among the most important global development indicators of the transport in the Metadata-Repository of the SDGs (UN Statistics Division, \citeyear{unitednationsstatisticsdivision2019a}). 
+                
+                \medskip
+                
+                Today's official methodological approach suggested by the Transport \& ICT Report (\citeyear{transportict2016}) titled \textit{Measuring Rural Access: using new technologies}, uses a combination of geospatial data (more specifically population distribution data, urban extent data, vectorized road data, measurements of road utility status) with a final spatial resolution of 100mx100m as opposed to data from household surveys. The requirements for the calculation of RAI are sturctured into three seperate data requirement domains. It is in the domain of measuring road condition (data requirement 3) where this thesis aims to make a contribution (see section X). Therefore, data requirement 1 (population distribution data) as well as data requirement 2 (urban extent data and vectorized road data) are not introduced further in this section.  
+                \medskip
+                
+                
+            \subsubsection{Challenges in Measuring Road Condition}
+            
+                The following section elaborates on remaining challenges concerning costs, information delay and expenditure of human labour in the Transport \& ICT Report. Table X gives an overview of what the Transport \& ICT Report suggests as suitable sources for road condition data, along with some of their respective advantages and disadvantages.
+                
+                \medskip
+                
+                Apart from "Free Apps for Road Assessment", all of the potential data sources are liable to pay costs. The Transport \& ICT Report (\citeyear{transportict2016}:22) states that "it is always possible to collect the necessary condition data with reasonable accuracy, although at a cost". The costs for data collection are directly linked to the availability of data and the processing steps needed to extract relevant information, as well as initial investments for equipment (e.g. high initial investment costs for unmanned aerial drones).
+              
+                \input{chapters/NonTextElements/Tables/Table2.tex}
+                
+                \medskip
+                
+                In terms of information delay, satellite imagery and unmanned aerial drones offer a lot of flexibility. Meanwhile, data from road inventory surveys, call detail records (georeferenced information about calls made/received, owned by cell phone carriers) and applications for road surface assessment rely on the frequency of surveys, recorded drives or calls made for timeliness. Depending on these factors, data availability may be good or lagging behind.
+
+                
+                \medskip
+                
+                All potential data sources for modern RAI calculation are to some degree labour intensive. International, standardized procedures using satellite imagery, unmanned aerial drones, call detail records or data gathered through mobile applications can reduce initial and upkeep costs, however.
+                
+                \medskip
+                
+                
+                
+                
+                
+                
                 
                 \bigskip
 	            Dobermann and Nelson 2013: Dobermann, A. and Nelson, R. et al. (2013). Solutions for Sustainable Agriculture and Food Systems. Technical report of the Thematic Group on Sustainable Agriculture and Food Systems. Paris, France and New York, USA: SDSN.
 	            
 	            \medskip
 
-                as outlined in \cite{sdsn2015}, also see World Bank: Measuring Rural Access, SDG Indicators, SDG Indicators metadata Repository
-	            
 	            \medskip
 	            
 		
@@ -116,18 +147,18 @@
 		
 			\subsubsection{Research Questions}
 			
-			In this section, research questions based on the goals of this study are formulated. Research questions 1 and 1.1 are directly linked to target indicator \#58 of the SDGs. Research question 2 is oriented towards the potential overall contribution of Big Data for Sustainability.
+			In this section, research questions based on the goals of this study are formulated. Research questions 1 and 1.1 are directly linked to target indicator 9.1.1 of the SDGs (see section X). Research question 2 is oriented towards the potential overall contribution of Big Data for Sustainability.
 			
 			\bigskip
 			
 			\begin{tcolorbox}
-				\textbf{Research Question 1:} \smallskip Can georeferenced data for indicator \#58 of the SDGs be generated using a Deep Neural Network on the Twitter Streaming API?
+				\textbf{Research Question 1:} \smallskip Can georeferenced data for indicator 9.1.1 (RAI) of the SDGs be generated using a Deep Neural Network on the Twitter Streaming API?
 			\end{tcolorbox}
 			
 			\bigskip
 				
 				\begin{tcolorbox}
-					\textbf{Research Question 1.1:} \smallskip Are these data comparable to conventional data for indicator \#58 of the SDGs in terms of quality and accuracy?
+					(If answer to RQ1 is yes:) \textbf{Research Question 1.1:} \smallskip Are these data comparable to conventional data for indicator \#58 of the SDGs in terms of quality and accuracy?
 				\end{tcolorbox}
 				
 			\bigskip
