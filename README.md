@@ -41,3 +41,5 @@ a debate over privacy and data protection. This debate is here to stay. Neverthe
 some of the reservations against artificial intelligence and big data analyses can be
 alleviated by a high degree of transparency (i.e. by making big data projects open
 source).
+
+[Click here to read the full thesis](https://github.com/taetscher/MastersThesis/blob/master/BIGGER_IS_BETTER__OR_IS_IT_MastersThesisBS14100564.pdf)
